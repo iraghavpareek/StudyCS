@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="none">
+
+
+        <item
+            android:title="Profile"
+            android:icon="@drawable/ic_account_circle"
+            android:id="@+id/profilem" />
+
+        <item
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:id="@+id/homem" />
+
+    <item
+        android:title="Languages"
+        android:icon="@drawable/ic_code"
+        android:id="@+id/language"/>
+    <item
+        android:title="CS Subjects"
+        android:id="@+id/book"
+        android:icon="@drawable/ic_library_books"/>
+    </group>
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="none">
+
+            <item
+                android:title="About"
+                android:icon="@drawable/ic_about"
+                android:id="@+id/about"/>
+
+        <item
+            android:title="Help"
+            android:icon="@drawable/ic_help"
+            android:id="@+id/help"/>
+    </group>
+
+</menu>

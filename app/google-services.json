@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912168570770",
+    "firebase_url": "https://study-cs-7e913.firebaseio.com",
+    "project_id": "study-cs-7e913",
+    "storage_bucket": "study-cs-7e913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912168570770:android:a3c726c8ca670bf2927b4b",
+        "android_client_info": {
+          "package_name": "com.example.studycs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912168570770-i79lfluk1ln60d0gd1fsogs8qjqnu2ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iZK9ebXu8JIqxHV8vSjQvU-hUGt1KBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912168570770-i79lfluk1ln60d0gd1fsogs8qjqnu2ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
